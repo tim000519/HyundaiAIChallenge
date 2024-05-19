@@ -1,0 +1,8 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_LightGBM,LightGBM,mae,53.60224422880215,88.17
+2_Default_Xgboost,Xgboost,mae,55.253350436416355,79.61
+3_Default_CatBoost,CatBoost,mae,55.809615926040394,149.03
+4_Default_RandomForest,Random Forest,mae,61.82039772164918,147.76
+14_LightGBM,LightGBM,mae,56.12592429764833,32.57
+5_Xgboost,Xgboost,mae,56.15119331317256,52.58
+23_CatBoost,CatBoost,mae,55.640835067329945,149.13
